@@ -1,0 +1,68 @@
+Fontconfig warning: "/etc/fonts/conf.d/25-wqy-zenhei.conf", line 11: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-ukai.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-ukai.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-ukai.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-ukai.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-ukai.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 16: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 28: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 28: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 28: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 28: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/41-arphic-uming.conf", line 28: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/64-arphic-uming.conf", line 8: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/64-arphic-uming.conf", line 21: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/64-arphic-uming.conf", line 34: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/64-arphic-uming.conf", line 47: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig error: "/etc/fonts/conf.d/65-khmer.conf", line 14: out of memory
+Fontconfig error: "/etc/fonts/conf.d/65-khmer.conf", line 23: out of memory
+Fontconfig error: "/etc/fonts/conf.d/65-khmer.conf", line 32: out of memory
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-garuda-synthetic.conf", line 9: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-garuda-synthetic.conf", line 21: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-kinnari-synthetic.conf", line 9: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-kinnari-synthetic.conf", line 21: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-loma-synthetic.conf", line 12: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-umpush-synthetic.conf", line 9: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/89-tlwg-umpush-synthetic.conf", line 21: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 9: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 22: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 22: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 22: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 26: Having multiple <family> in <alias> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 31: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "/etc/fonts/conf.d/90-fonts-nanum.conf", line 40: Having multiple values in <test> isn't supported and may not work as expected
+PhantomJS is launching GhostDriver...
+[INFO  - 2018-05-07T06:36:53.885Z] GhostDriver - Main - running on port 43820
+[INFO  - 2018-05-07T06:36:54.856Z] Session [08871a90-51c1-11e8-bce2-7f7d2f44de99] - CONSTRUCTOR - Desired Capabilities: {"platform":"ANY","browserName":"phantomjs","version":"","javascriptEnabled":true,"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1 QQBrowser/6.9.11079.201"}
+[INFO  - 2018-05-07T06:36:54.856Z] Session [08871a90-51c1-11e8-bce2-7f7d2f44de99] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.0","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1 QQBrowser/6.9.11079.201"}
+[INFO  - 2018-05-07T06:36:54.856Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 08871a90-51c1-11e8-bce2-7f7d2f44de99
+[ERROR - 2018-05-07T06:36:54.869Z] RouterReqHand - _handle - Thrown => {
+  "message": "Request => {\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Connection\":\"close\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:43820\",\"User-Agent\":\"Python http auth\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 30000, \\\"sessionId\\\": \\\"08871a90-51c1-11e8-bce2-7f7d2f44de99\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/08871a90-51c1-11e8-bce2-7f7d2f44de99/timeouts\"}",
+  "name": "Missing Command Parameter",
+  "line": 519,
+  "sourceId": 140378570748992,
+  "sourceURL": ":/ghostdriver/request_handlers/session_request_handler.js",
+  "stack": "Missing Command Parameter: Request => {\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Connection\":\"close\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:43820\",\"User-Agent\":\"Python http auth\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 30000, \\\"sessionId\\\": \\\"08871a90-51c1-11e8-bce2-7f7d2f44de99\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/08871a90-51c1-11e8-bce2-7f7d2f44de99/timeouts\"}\n    at :/ghostdriver/request_handlers/session_request_handler.js:519\n    at :/ghostdriver/request_handlers/session_request_handler.js:143\n    at :/ghostdriver/request_handlers/request_handler.js:61\n    at :/ghostdriver/request_handlers/router_request_handler.js:82",
+  "stackArray": [
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/session_request_handler.js",
+      "line": 519
+    },
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/session_request_handler.js",
+      "line": 143
+    },
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/request_handler.js",
+      "line": 61
+    },
+    {
+      "sourceURL": ":/ghostdriver/request_handlers/router_request_handler.js",
+      "line": 82
+    }
+  ]
+}
