@@ -8,7 +8,7 @@
 class WepythonPipeline(object):
     def process_item(self, item, spider):
         with open('redis.txt', 'a') as fp:
-            fp.write(item['title'].encode('utf-8'))
-            fp.write(item['summary'].encode('utf-8'))
-            fp.write(item['time'].encode('utf-8'))
+            fp.write(item['title'].encode('utf-8')+'\n')
+            fp.write(item['summary'].encode('utf-8')+'\n')
+            fp.write(item['time'].encode('utf-8')+'\n')
         return item

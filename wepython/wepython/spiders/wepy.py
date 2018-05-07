@@ -18,7 +18,7 @@ class WepythonSpider(RedisSpider):
     def parse(self, response):
         base_url = "http://weixin.sogou.com/weixin"
         print "**** url ****"+ response.url
-        r = Redis()
+        r = Redis(host="192.168.138.210", port=6379, db=0)
 
         ContextUrls = response.xpath('//p[@class="tit"]/a/@href').extract()
         print "***********"
@@ -28,4 +28,8 @@ class WepythonSpider(RedisSpider):
         for url in ContextUrls:
             r.lpush('wepy:list', url)
             sleep(1)
-        pass     
+
+        nextLink = response.xpath('//*[@id="sogou_next"]/@href').extract()
+        if nextLink:
+            r.lpush('wepy:start_urls', base_url+nextLink[0])
+            sleep(1)
